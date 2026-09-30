@@ -55,4 +55,4 @@ Explore the interactive Tableau dashboard:
 
 ## Project Files
 
-This repository contains the project documentation and analysis materials used to develop the findings.
+- [SQL Validation and Analysis](sql/01_validation_queries.sql)
